@@ -66,27 +66,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
- 
- 
+                            Screnshoot Tugas
+env:
+![image](https://github.com/user-attachments/assets/13380cca-3868-4712-b2d8-5e8aaa9bf504)
+![image](https://github.com/user-attachments/assets/1802a7e5-18ac-4e1c-ba0c-d2103b147cde)
 
-Screnshoot Tugas
-Halaman 	Screenshot
-env	        ![image](https://github.com/user-attachments/assets/13380cca-3868-4712-b2d8-5e8aaa9bf504)
-            ![image](https://github.com/user-attachments/assets/1802a7e5-18ac-4e1c-ba0c-d2103b147cde)
-
-Web php     ![image](https://github.com/user-attachments/assets/e4f75559-3ea8-4766-afa7-067fbe374233)
+Web php:
+![image](https://github.com/user-attachments/assets/e4f75559-3ea8-4766-afa7-067fbe374233)
 	 
-Terminal    ![image](https://github.com/user-attachments/assets/1fa9a2f9-ff03-4242-b5e9-2e04098b11a8)
-            ![image](https://github.com/user-attachments/assets/eb7a5b88-810c-43f4-b8d6-6763ddbdbf78)
-            ![image](https://github.com/user-attachments/assets/6f7de667-821e-46a9-97bd-52bdd2a2fec5)
+Terminal:
+![image](https://github.com/user-attachments/assets/1fa9a2f9-ff03-4242-b5e9-2e04098b11a8)
+![image](https://github.com/user-attachments/assets/eb7a5b88-810c-43f4-b8d6-6763ddbdbf78)
+![image](https://github.com/user-attachments/assets/6f7de667-821e-46a9-97bd-52bdd2a2fec5)
 
-Home	    ![image](https://github.com/user-attachments/assets/2057fd4f-1ad3-4062-90f5-1ad13fa801fd)
+Home:
+![image](https://github.com/user-attachments/assets/2057fd4f-1ad3-4062-90f5-1ad13fa801fd)
 
-Register	![image](https://github.com/user-attachments/assets/71bfc456-d7fd-4c3c-86b5-78e22a1fde13)
+Register:
+![image](https://github.com/user-attachments/assets/71bfc456-d7fd-4c3c-86b5-78e22a1fde13)
+![image](https://github.com/user-attachments/assets/c0e65490-0056-43f8-8ff3-81251ac991d3)
 
-link web url ![image](https://github.com/user-attachments/assets/d23c8e22-7a14-4036-b747-ea5bf87af0b3) & ![image](https://github.com/user-attachments/assets/2e440674-d815-44a8-942f-40f5a2e3d9e4)
 
-http://20220140031-todo.test/dashboard    
+link web url http://20220140031-todo.test/dashboard:
+![image](https://github.com/user-attachments/assets/d23c8e22-7a14-4036-b747-ea5bf87af0b3)
+![image](https://github.com/user-attachments/assets/2e440674-d815-44a8-942f-40f5a2e3d9e4)
+   
  
  
 
