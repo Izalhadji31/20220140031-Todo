@@ -13,4 +13,9 @@ class Todo extends Model
         'user_id',
         'is_complete',
     ];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
 }
